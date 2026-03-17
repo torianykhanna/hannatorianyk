@@ -48,6 +48,7 @@ Includes Dark/Light theme and reusable React components with custom hooks for ma
 [🔗 Demo](https://torianykhanna.github.io/voltrix-store/) | [💻 GitHub Code](https://github.com/torianykhanna/voltrix-store)
 
 
+
 ### ✅ Todo Application — Task Manager
 **Technologies:** React · TypeScript · REST API · SCSS  
 
@@ -55,6 +56,7 @@ Task management application with REST API integration.
 Supports task creation, deletion, completion toggling, and filtering by status.
 
 [🔗 Demo](https://torianykhanna.github.io/todo-application/) | [💻 GitHub Code](https://github.com/torianykhanna/todo-application)
+
 
 
 ### 🌦 Weather Forecast — Web Application
