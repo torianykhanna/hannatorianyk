@@ -2,9 +2,10 @@
 
 💻 Frontend Developer | React | TypeScript | JavaScript | Tailwind | Sass  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/hanna-torianyk/)
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/HannaTorianyk)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:torianykhanna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanna-torianyk/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torianykhanna@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HannaTorianyk)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torianykhanna)
 
 ## 🚀 About Me
 
@@ -77,12 +78,12 @@ Master’s Degree in Sociology (Informatics Specialization)
 
 **Frontend Development Course — Mate Academy**  
 Git · HTML · CSS · JavaScript · TypeScript · React · Web Development  
-[Certificate](https://drive.google.com/drive/folders/1ck-RxtEu5a0eKTufM8tpqOXM30TZFMhD)
+[Certificates](https://drive.google.com/drive/folders/1ck-RxtEu5a0eKTufM8tpqOXM30TZFMhD)
 
 **Frontend Development Course — SheCodes**  
 HTML · CSS · JavaScript · API · GitHub · Hosting · React  
-[Certificate](https://drive.google.com/drive/folders/1iv3wWbPjP9f3A_Mdb3toMytO4cw_LnXo)
+[Certificates](https://drive.google.com/drive/folders/1iv3wWbPjP9f3A_Mdb3toMytO4cw_LnXo)
 
 **Frontend Development Course — ITVDN**  
 Git · HTML · CSS · JavaScript · TypeScript · React · Vue.js · Angular  
-[Certificate](https://drive.google.com/drive/folders/1IL4zCWrYkM9JFndW-lUgpfjFRTVHnMpM)
+[Certificates](https://drive.google.com/drive/folders/1IL4zCWrYkM9JFndW-lUgpfjFRTVHnMpM)
