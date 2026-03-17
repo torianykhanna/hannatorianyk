@@ -47,7 +47,7 @@ Includes Dark/Light theme and reusable React components with custom hooks for ma
 
 [🔗 Demo](https://torianykhanna.github.io/voltrix-store/) | [💻 GitHub Code](https://github.com/torianykhanna/voltrix-store)
 
-
+<br>
 
 ### ✅ Todo Application — Task Manager
 **Technologies:** React · TypeScript · REST API · SCSS  
@@ -57,7 +57,7 @@ Supports task creation, deletion, completion toggling, and filtering by status.
 
 [🔗 Demo](https://torianykhanna.github.io/todo-application/) | [💻 GitHub Code](https://github.com/torianykhanna/todo-application)
 
-
+<br>
 
 ### 🌦 Weather Forecast — Web Application
 **Technologies:** React · Axios · REST API · HTML · CSS  
@@ -67,7 +67,7 @@ Includes city search functionality and real-time data updates.
 
 [🔗 Demo](https://react-weahter-app-training.netlify.app/) | [💻 GitHub Code](https://github.com/torianykhanna/react-weather-app)
 
-
+<br>
 
 ## 🎓 Education
 
